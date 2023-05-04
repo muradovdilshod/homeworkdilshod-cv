@@ -8,11 +8,8 @@
 
 * hi1 hi6
 
-Phone: +38 068 4489766
-E-mail: ankavoloshina@gmail.com
-Telegram: @hannavoloshyna
-LinkedIn
-Behance
+* dfghgfds
 
-Briefly About Myself:
-Having started my career as a layout designer in a local newspaper with minimum skills, I became profficient in printing design.
+1. 45354345345
+
+==== 
