@@ -2,13 +2,6 @@
 #### MISSTER Frontend Developer __====__
 ***
 
-#### Connnect information:
-__Phone:__ +998 99 800 32 25
-
-__E-mail:__ DILSHODBEKMURADOV@gmail.com
-
-__Telegram:__ @TOY3225
-
 
 [Instagram](https://www.instagram.com/muhammadjasur2005/)
 
@@ -74,3 +67,11 @@ function peak(arr) {
 | Fizika | 5 |
 | Ona tili | 5 |
 | Rus tili | 3 |
+
+
+#### Connnect information:
+__Phone:__ +998 99 636 69 66
+
+__E-mail:__ DILSHODBEKMURADOV@gmail.com
+
+__Telegram:__ @TOY3225
